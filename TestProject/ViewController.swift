@@ -23,6 +23,14 @@ class ViewController: UIViewController {
     func awesomeFeatureX(){
         println("This is an amazing feature")
     }
+    
+    func awesomeFeatureY(){
+        println("This is another cool feature")
+        
+        for i in 0...10 {
+            println(i)
+        }
+    }
 
 
 }
