@@ -27,7 +27,8 @@ class ViewController: UIViewController {
         println("This is an amazing feature")
     }
     
-    func awesomeFeatureQ(){
+    func awesomeFeatureQZ(){
+
         println("This is another cool feature")
         
         for i in 0...10 {
