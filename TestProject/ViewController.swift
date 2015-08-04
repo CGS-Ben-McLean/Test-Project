@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         println("This is an amazing feature")
     }
     
-    func awesomeFeatureQZ(){
+    func awesomeFeatureABC(){
 
         println("This is another cool feature")
         
